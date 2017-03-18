@@ -1,0 +1,7 @@
+{
+    "name": "serhii/test",
+    "minimum-stability": "stable",
+    "require": {
+        "electrolinux/phpquery":"dev-master"
+    }
+}
